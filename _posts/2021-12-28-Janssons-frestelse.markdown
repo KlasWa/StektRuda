@@ -10,7 +10,7 @@ Janssons frestelse är en gratäng med poatis, lök och anjovis (konserv gjord p
 Det är en någorlunda modern julklassiker som passar sig ytterst bra för vickning, en måltid att äta under småtimmarna eller innan man påbörjar en sen hemfärd.
 </em>
 
-# Ingridienser
+# Ingredienser
 
 ---
 
@@ -39,3 +39,9 @@ Varva potatis, lök och anjovisfiléer i formen. Understa och översta lagret sk
 Blanda grädden, mjölken och anjovisspadet (ca 3 msk).
 
 Häll över hälften av gräddblandningen och lägg på smörklickar. 
+
+Strö över ströbrödet och grädda i 225 °C under 30 minuter.
+
+Slå på resten av gräddblandningen och "platta till" gratängen så att den blir mer kompakt och jämn.
+
+Grädda i ytterligare 15 minuter eller tills potatisen är mjuk och har fått en fin färg. 

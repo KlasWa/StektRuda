@@ -10,4 +10,6 @@ Den här hemsidan är gjord med [jekyll][jekyllrb] och temat är en modifierad v
 
 Typsnittet som använts är [EB Garmond](https://github.com/georgd/EB-Garamond) vilket är ett öppet/fritt typsnitt som baseras på Claude Garamonts typsnitt från 1500-talet.
 
+Hemsidan levereras med [Cloudflare pages](https://pages.cloudflare.com/) och Github (privat repo).
+
 [jekyllrb]: https://jekyllrb.com/
