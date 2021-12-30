@@ -3,9 +3,38 @@
 }
 
 .site-header {
-  border-top: 1px solid $grey-color-dark;
+  border-top: 0px solid $grey-color-dark;
 }
 
 .footer-image {
   float: right;
+}
+
+.img-container {
+  float: left;
+  max-width: 100%;
+}
+
+.img-container img {
+  float: left;
+  width: 100%;
+  max-width: 50%;
+  box-sizing: border-box;
+  padding: 0px #{$spacing-unit/2};
+}
+
+.img-container img:first-child {
+	padding-left: 0px;
+}
+
+.img-container img:last-child {
+	padding-right: 0px;
+}
+
+.img-container img.img-w-50 {
+  max-width: 50%;
+}
+
+.img-container img.img-w-20 {
+  max-width: 20%;
 }

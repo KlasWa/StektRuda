@@ -5,7 +5,7 @@ date:   2021-12-30 12:12:00 +0100
 categories: Asiatiskt
 ---
 
-![Foto av receptet så som nedskrivet av Ulla](/assets/pictures/kimchipannkaka_1.jpg)
+![Serverad kimchipannkaka](/assets/pictures/kimchipannkaka_1.jpg)
 
 <em></em>
 
