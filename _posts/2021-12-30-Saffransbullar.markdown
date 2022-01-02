@@ -12,7 +12,7 @@ categories: Julmat
 
 <em>
 Mormor Alice Lithmans saffransbröd.
-Hon skrev ned receptet i ett brev till på mitten av 70-talet.
+Hon skrev ned receptet i ett brev på mitten av 70-talet.
 Receptet är nog gammalt, antagligen från hennes mamma Albertina Strand.
 </em>
 
