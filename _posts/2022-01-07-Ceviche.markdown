@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Ceviche"
+date:   2022-01-07 18:27:00 +0100
+categories: Sydamerikanskt
+---
+
+<div class="img-container">
+  <img src="/assets/pictures/ceviche_1.jpg" class="img-w-70" alt="Ceviche med tillbehör">
+  <img src="/assets/pictures/ceviche_2.jpg" class="img-w-30" alt="tortilla med ceviche, avokado och salsa">
+</div>
+
+<em>
+Det här är en peruansk maträtt som baseras på rå fisk. Äts antingen som förrätt eller med tillbehör som huvudrätt.
+</em>
+
+# Ingredienser
+
+---
+
+- ca 300 g rå lax
+- ca 6 lime
+
+Salsa
+
+- 1 mango
+- 2 rödlökar
+- chilli
+- korriander
+
+Servering
+
+- majstortilla
+- 2 avokado
+- cosmopolitansallad
+- rostad majs
+- lime & jalapeño-mayo
+
+# Recept
+
+---
+
+Skär upp laxen i ca 1 cm stora kuber.
+
+Lägg i skål och täck med färskpresad limejoucie.
+
+Låt vila i kylskåp i minst 1 timme, gärna ett par timmar.
+
+För salsan blanda mango-kuber med korriander, hackad rödlök och chilli.
+
+Serveras gärna med avokado och tortillabröd.
