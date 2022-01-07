@@ -5,6 +5,7 @@
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
     <p>{{- site.description | escape -}}</p>
+    <p class="rss-subscribe">prenumerera <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -22,7 +23,7 @@
         {%- include social.html -%}
       </div>
       <div class="footer-col footer-col-3">
-        <img src="/assets/ruda.webp" class="footer-image" width="100px" height="117px" alt="En liten svartvit bild av ett par fiskar.">
+        <img src="/assets/ruda.png" class="footer-image" width="100px" height="117px" alt="En liten svartvit bild av ett par fiskar.">
       </div>
     </div>
 

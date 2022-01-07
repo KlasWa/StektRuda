@@ -6,8 +6,8 @@ categories: Nyår
 ---
 
 <div class="img-container">
-  <img src="/assets/pictures/creme_ninon_1.webp" class="img-w-50" alt="Foto av creme ninon under tillagning.">
-  <img src="/assets/pictures/creme_ninon_2.webp" class="img-w-50" alt="Foto av creme ninon efter att champagne hätts i.">
+  <img src="/assets/pictures/creme_ninon_1.jpg" class="img-w-50" alt="Foto av creme ninon under tillagning.">
+  <img src="/assets/pictures/creme_ninon_2.jpg" class="img-w-50" alt="Foto av creme ninon efter att champagne hätts i.">
 </div>
 
 <em>

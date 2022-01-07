@@ -6,8 +6,8 @@ categories: Julmat
 ---
 
 <div class="img-container">
-  <img src="/assets/pictures/saffransbullar_1.webp" class="img-w-50" alt="Foto av receptet så som nedskrivet av Alice">
-  <img src="/assets/pictures/saffransbullar_2.webp" class="img-w-50" alt="Halvätna saffransbullar">
+  <img src="/assets/pictures/saffransbullar_1.jpg" class="img-w-50" alt="Foto av receptet så som nedskrivet av Alice">
+  <img src="/assets/pictures/saffransbullar_2.jpg" class="img-w-50" alt="Halvätna saffransbullar">
 </div>
 
 <em>
