@@ -17,7 +17,7 @@ Ursprungliga efter en köksmäster Ecouard Nignon.
 Det skulle vara roligt att se Tore Wretmans recept.
 </em>
 
-# Ingredienser (1 stor pannkaka)
+# Ingredienser
 
 ---
 
