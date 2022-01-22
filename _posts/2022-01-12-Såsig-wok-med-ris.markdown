@@ -7,7 +7,7 @@ categories: Asiatiskt
 
 ![Färdiglagat och serverat](/assets/pictures/såsig_wok_1.jpg)
 
-<em>Det här är en enkel "wok"-liknande rätt som bärs upp av rätt buljong.</em>
+<em>Det här är en enkel "wok"-liknande rätt som bärs upp av rätt buljong, förslagsvis från [vietnamesiska köttbullar]({% post_url 2022-01-22-Soppa-med-vietnamesiska-köttbullar%}).</em>
 
 # Ingredienser
 
@@ -36,11 +36,11 @@ Skär upp paprika i små bitar och stek med hallouin.
 
 Skär upp habanero och ha i.
 
-Häll ner buljong från vietnamesiska köttbullar.
+Häll ner buljong från [vietnamesiska köttbullar]({% post_url 2022-01-22-Soppa-med-vietnamesiska-köttbullar%}).
 
 Ha i potatismjöl tills önskad konsistens uppnås.
 
-SKär upp tofu i kuber och ha i.
+Skär upp tofu i kuber och ha i.
 
 Smaka av med lite soya och fisksås.
 
