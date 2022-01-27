@@ -1,3 +1,5 @@
+// General
+
 .post-content ul {
   padding-left: $spacing-unit;
 }
@@ -8,6 +10,11 @@
 
 .footer-image {
   float: right;
+}
+
+a,
+a:visited {
+  color: #008000;
 }
 
 // Image container
